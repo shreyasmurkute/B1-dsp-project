@@ -8,4 +8,5 @@ this is a matlab-gui project which uses matlab gui design tool
  Team:
 =============================
 
-| NO. | Position | Team | Name |
+| NO.    | Position     | Team               | Name                       |
+| :----- | :----------: | :----------------: | :-------------------------:|
