@@ -4,7 +4,8 @@ Implementation of Digital FIR filter, Butterworth Notch Filter and Differentiati
 The GUI in this project is prepared using Matlab GUI Design Tool
 
 
-
+# Installation
+matlab  > click on file > install
  Team:
 =============================
 
