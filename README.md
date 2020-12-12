@@ -1,5 +1,5 @@
-# B1-dsp-project
-Dsp project based on Matlab 
+# B1-DSP-Project
+Implementation of Digital FIR filter, Butterworth Notch Filter and Differentiation of signals using MATLAB 
 
 this is a matlab-gui project which uses matlab gui design tool
 
