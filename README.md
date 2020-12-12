@@ -10,7 +10,7 @@ this is a matlab-gui project which uses matlab gui design tool
 
 | NO.    | Position     | Team               | Name                       |
 | :----- | :----------: | :----------------: | :-------------------------:|
-|  1     |              |                    |                            |
+|  1     |      lead        |      gui,ppt              |                            |
 |  2     |              |                    |                            |
 |    3    |              |                    |                            |
 |   4     |              |                    |                            |
