@@ -7,7 +7,7 @@ fvtool(lpfilt);
 
 file1 = 'Ensoniq-ZR-76-01-Dope-77.wav'; %loading the audio file for testing the filter
 [y,Fs1] = audioread(file1); clear file1; %reading the audio file 
-%sound(y,Fs1);
+sound(y,Fs1);
 totalTime = length(y)./Fs1;
 t = (0: totalTime/(length(y)): totalTime-(totalTime/length(y)));
 
@@ -32,5 +32,5 @@ xlabel('time');
 ylabel('amp');
 
 %Just practicing how to sample a signal
-%stem(t1,x1);
+stem(t1,x1);
 
