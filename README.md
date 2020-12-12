@@ -1,4 +1,5 @@
-# B1-DSP-Project [](https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.svg)
+# B1-DSP-Project 
+![sd](https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.svg)
 Implementation of Digital FIR filter, Butterworth Notch Filter and Differentiation of signals using MATLAB 
 
 The GUI in this project is prepared using Matlab GUI Design Tool
